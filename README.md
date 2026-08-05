@@ -35,6 +35,8 @@ Repository ini bertujuan untuk mendokumentasikan proses pembelajaran sekaligus m
 | 10 | Algoritma Klasifikasi (Bagian 2) | [Notebook Pertemuan 10](./Pertemuan10_Pertemuan12_M.Syafii_Hidayatullah.ipynb) |
 | 11 | Unsupervised Learning : Clustering (K-Means & Hierarchical) | [Notebook Pertemuan 11](./Pertemuan11_Pertemuan12_M.Syafii_Hidayatullah.ipynb) |
 | 12 | Asosiasi Data & Sistem Rekomendasi Dasar | [Notebook Pertemuan 12](./Pertemuan12_M.Syafii_Hidayatullah.ipynb) |
+| 13 | Pengantar Deep Learning & NLP Dasar: Artificial Neural Network, TF-
+IDF, Analisis Sentimen | [Notebook Pertemuan 13](./Pertemuan13_M.Syafii_Hidayatullah.ipynb) |
 
 ---
 
