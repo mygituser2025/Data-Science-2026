@@ -1,6 +1,6 @@
-# 📊 Portofolio Data Science 2026
+# Portofolio Data Science 2026
 
-## 👩‍🎓 Identitas Mahasiswa
+## Identitas Mahasiswa
 
 - **Nama** : M. Syafii Hidayatullah
 - **NIM** : 220401010286
@@ -10,7 +10,7 @@
 
 ---
 
-# 📚 Tentang Repository
+# Tentang Repository
 
 Halo! Saya **M. Syafii Hidayatullah**, mahasiswa Program Studi Informatika Universitas Siber Asia. Repository ini digunakan sebagai portofolio dan dokumentasi tugas praktikum mata kuliah **Data Science** selama semester Genap Tahun Ajaran 2025/2026.
 
@@ -94,7 +94,7 @@ jupyter notebook
 
 ---
 
-# 🎯 Kesimpulan Perjalanan Belajar Data Science (Pertemuan 1–13)
+# Kesimpulan Perjalanan Belajar Data Science (Pertemuan 1–13)
 
 Selama mengikuti praktikum Data Science dari pertemuan 1 hingga 13, saya mempelajari alur kerja Data Science mulai dari pengenalan Python, manipulasi data menggunakan Pandas dan NumPy, pembersihan data, eksplorasi data, visualisasi data, hingga penerapan Machine Learning menggunakan Regresi Linear.
 
@@ -104,7 +104,7 @@ Salah satu pembelajaran utama yang diperoleh adalah bahwa kualitas data sangat m
 
 ---
 
-# 📌 Disclaimer
+# Disclaimer
 
 Repository ini dibuat untuk keperluan akademik dan pembelajaran pada mata kuliah Data Science di Universitas Siber Asia (UNSIA).
 
