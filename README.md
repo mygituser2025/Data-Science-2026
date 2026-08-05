@@ -20,7 +20,7 @@ Repository ini bertujuan untuk mendokumentasikan proses pembelajaran sekaligus m
 
 ---
 
-# 📂 Daftar Pertemuan
+# Daftar Pertemuan
 
 | Pertemuan | Topik | Notebook |
 |-----------|--------|----------|
@@ -35,12 +35,11 @@ Repository ini bertujuan untuk mendokumentasikan proses pembelajaran sekaligus m
 | 10 | Algoritma Klasifikasi (Bagian 2) | [Notebook Pertemuan 10](./Pertemuan10_Pertemuan12_M.Syafii_Hidayatullah.ipynb) |
 | 11 | Unsupervised Learning : Clustering (K-Means & Hierarchical) | [Notebook Pertemuan 11](./Pertemuan11_Pertemuan12_M.Syafii_Hidayatullah.ipynb) |
 | 12 | Asosiasi Data & Sistem Rekomendasi Dasar | [Notebook Pertemuan 12](./Pertemuan12_M.Syafii_Hidayatullah.ipynb) |
-| 13 | Pengantar Deep Learning & NLP Dasar: Artificial Neural Network, TF-
-IDF, Analisis Sentimen | [Notebook Pertemuan 13](./Pertemuan13_M.Syafii_Hidayatullah.ipynb) |
+| 13 | Deep Learning & NLP Dasar | [Notebook Pertemuan 13](./Pertemuan13_M.Syafii_Hidayatullah.ipynb) |
 
 ---
 
-# 🛠️ Tools dan Library yang Digunakan
+# Tools dan Library yang Digunakan
 
 ### Bahasa Pemrograman
 - Python
@@ -60,7 +59,7 @@ IDF, Analisis Sentimen | [Notebook Pertemuan 13](./Pertemuan13_M.Syafii_Hidayatu
 
 ---
 
-# ▶️ Cara Menjalankan Notebook
+# Cara Menjalankan Notebook
 
 ## Menggunakan Google Colab
 
